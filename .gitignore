@@ -2,3 +2,6 @@
 *.ini
 *.svn
 /Channels - 800x450/
+last_run_commit.txt
+CreateKodiLogo.ps1
+/temp/
