@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 30/03/2020 Hum Masala closes on Virgin Media -->
-		<!-- 07/04/2020 Replace History/+1/HD, History2/HD with Sky History-->
+		<!-- 30/04/2020 Pavers will close -->
+		<!-- 27/05/2020 History/+1/HD and History2/HD becomes Sky History -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -254,11 +254,11 @@
 			<File>Astra.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ATN">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<Item Name="ATN Bangla">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="ATN Bangla UK">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>ATN Bangla.png</File>
 		</Channel>
@@ -2097,15 +2097,6 @@
 			<File>France 24 HD - English.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 HD - Francais">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="France 24 (French) HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>France 24 HD - Francais.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="FreeSports">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2361,7 +2352,6 @@
 		<Channel>
 			<Item Name="Hum Masala">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Hum Masala.png</File>
 		</Channel>
@@ -2852,13 +2842,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>MATV National.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Meet The Babes">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Meet The Babes.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mickey &amp; Pals">
@@ -3368,9 +3351,6 @@
 			</Item>
 			<Item Name="Paramount Network +1">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Paramount Network+1">
-				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Paramount Network Plus 1.png</File>
 		</Channel>
@@ -5531,7 +5511,7 @@
 			<Item Name="Sky Sports Cricket">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="SkySpCricket">
+			<Item Name="SkySp Cricket">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports Cricket.png</File>
@@ -5723,6 +5703,9 @@
 			<File>Sky Sports News HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports PL">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Sky Sports Premier League">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6869,6 +6852,7 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Yesterday+1">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Yesterday Plus 1.png</File>
