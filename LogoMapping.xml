@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 30/04/2020 Pavers will close -->
 		<!-- 27/05/2020 History/+1/HD and History2/HD becomes Sky History -->
 	<TV>
 		<Channel>
@@ -10,7 +9,7 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>4music.png</File>
+			<File>4Music.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="4seven">
@@ -1763,15 +1762,6 @@
 			<File>Disney XD HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney XD +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Disney XD+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Disney XD Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="DMAX">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2128,13 +2118,13 @@
 			<Item Name="Geo News">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>GEO News.png</File>
+			<File>Geo News.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Geo TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>GEO TV.png</File>
+			<File>Geo TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Get Lucky TV">
@@ -2244,6 +2234,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>High Street TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hi-Impact TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Hi-Impact TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hillsong">
@@ -3364,15 +3360,6 @@
 			<File>Partyland.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Pavers">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Paversshoes.tv">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Pavers.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="PBS America">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3710,13 +3697,13 @@
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>RTE ONE.png</File>
+			<File>RTE One.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ One HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>RTE ONE HD.png</File>
+			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ One +1">
